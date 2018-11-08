@@ -1,2 +1,2 @@
 # config
-Some custom config file
+Some custom config files
